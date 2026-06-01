@@ -1,0 +1,13 @@
+Motyga Code
+Copyright 2026 Motyga (motyga.com)
+
+This product is a fork of Cline (https://github.com/cline/cline),
+Copyright Cline Bot Inc., licensed under the Apache License, Version 2.0.
+
+You may obtain a copy of the License in the LICENSE file in this repository,
+which is retained unmodified from the upstream project.
+
+Modifications by Motyga include: rebranding to "Motyga Code", a default
+Motyga (https://api.motyga.com/v1) OpenAI-compatible provider configuration
+and device-login, and related product customizations. Cline name, logo and
+trademarks are not used to endorse or promote this fork.
