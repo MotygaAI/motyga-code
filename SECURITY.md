@@ -2,13 +2,16 @@
 
 ## Supported Versions
 
-We actively patch only the most recent minor release of Cline. Older versions receive fixes at our discretion.
+We actively patch only the most recent release of Motyga Code. Older versions receive fixes at our discretion.
 
 ## Reporting a Vulnerability
 
-We appreciate your efforts to responsibly disclose your findings and will make every effort to acknowledge your contributions.
+We appreciate your efforts to responsibly disclose your findings and will make every effort to acknowledge your contribution.
 
-To report a security issue, please submit your report through our [Bugcrowd Vulnerability Disclosure Program](https://bugcrowd.com/engagements/clinebot-vdp-ess). Bugcrowd will manage communication and triage on our behalf.
+**Please do not report security issues through public GitHub issues.** Instead, report privately through either:
+
+- a [GitHub security advisory](https://github.com/MotygaAI/motyga-code/security/advisories/new) (preferred), or
+- email **support@motyga.com**.
 
 When reporting, please include:
 
@@ -18,8 +21,4 @@ When reporting, please include:
 
 Please keep the details private until a resolution has been reached.
 
-## Escalation
-
-If you are unable to submit through Bugcrowd, you may send an email to security@cline.bot.
-
-Thank you for helping us keep Cline users safe.
+Thank you for helping us keep Motyga users safe.
